@@ -10,5 +10,6 @@ export default function ProductList() {
         <h2>
             <Link href="/products/3" replace >Product {productId}</Link>
         </h2>
+        
     </>
 }
